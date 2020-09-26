@@ -28,5 +28,35 @@ export const robots = [
         name: 'Glenna Reichert',
         username: 'Delphine',
         email: 'sherwood@rosamond.me'
+    },
+    {
+        id: 6,
+        name: 'John Smith',
+        username: 'Sunflower',
+        email: 'jsmith@flower.power'
+    },
+    {
+        id: 7,
+        name: 'Doc Martin',
+        username: 'Professor',
+        email: 'drmarty@hospital.gov'
+    },
+    {
+        id: 8,
+        name: 'Jill Valentine',
+        username: 'Jilly V',
+        email: 'j.valentine@racoon.city'
+    },
+    {
+        id: 9,
+        name: 'Tom Starling',
+        username: 'McLovin',
+        email: 'tom@mcdonalds.co'
+    },
+    {
+        id: 10,
+        name: 'Woody Allen',
+        username: 'Buzz',
+        email: 'toy@story.four'
     }
 ]
