@@ -2,6 +2,10 @@ import React from 'react';
 import Card from './Card.js'
 
 const CardList = ({ robots }) => {
+    // * error boundry *
+    // if (true) {
+    //     throw new Error('Noooo')
+    // }
     return (
         <div>
             {robots.map((user, i) => {
